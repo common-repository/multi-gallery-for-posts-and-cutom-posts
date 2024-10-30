@@ -1,0 +1,27 @@
+
+.single_img {
+    display: inline-block;
+    margin-right: 2%;
+    position: relative;
+}
+
+.close {
+       display: inline-block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 1%;
+    background-color: black;
+    color: white;
+    padding: 0 4px;
+   
+    font-weight: bold;
+}
+.mig_content{
+    margin-left: 3%;
+}
+.mig_submit{padding-top:1%;}
+.mig_msg{padding: 1%}
+.mig_upload_btn{cursor:pointer;  width: 100%; margin: 2%; display: block; color: #0073aa;
+
+    }
